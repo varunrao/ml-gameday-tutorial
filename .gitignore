@@ -7,3 +7,9 @@ build/*
 config.json
 data
 node_modules
+containers/**/*.pyc
+.idea/*
+/.idea/
+.DS_Store
+.ipynb_checkpoints
+**/*.pyc
